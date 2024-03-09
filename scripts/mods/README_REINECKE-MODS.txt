@@ -173,6 +173,7 @@ R	- Read, wRite, Registry, Root, Runtime
 A	- Artificial, Algorithm, Array, Analytics
 P	- Processing, Process, Programming, Precision
 H	- Hub, Host, High, HEAP
+
 CIPHER	- Comprehensive Integrated Platform for Hierarchical Exploration and Retrieval				
 
 Comprehensive Information Processing Hub for Execution on Runtime
@@ -184,6 +185,7 @@ P	- Processing, Process, Programming, Precision
 H	- Hub, Host, High, HEAP
 E	- Extraction, Execution, Encoding, Entry
 R	- Read, wRite, Registry, Root, Runtime
+
 NOVA	- Networked Operations and Visual Access
 N	- Neural, Network, Node
 O	- Operating System, Optimization, Operational, Online
